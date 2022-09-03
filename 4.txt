@@ -1,1 +1,1 @@
-Git clone being tested
+adding cloned filed
